@@ -10,7 +10,7 @@
   "dependencies": {
     "@loadable/component": "^5.12.0",
     "@mdx-js/mdx": "^1.5.1",
-    "@mdx-js/react": "^1.5.1",
+    "@mdx-js/react": "^1.6.5",
     "@reach/router": "^1.1.1",
     "@reactions/component": "^2.0.2",
     "@segment/consent-manager": "^4.2.2",
